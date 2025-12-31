@@ -1,0 +1,9 @@
+{
+    "::1": {
+        "status": "success",
+        "country": "Localhost",
+        "countryCode": "BR",
+        "city": "Local",
+        "timestamp": 1760220179
+    }
+}
