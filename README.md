@@ -1,0 +1,1 @@
+esse projeto conta com a pagina de inicio, dashboard para adminstradores (login: admin, senha: admin), sistema de iplogger para adminstradores monitorar os ips que estao acessando as paginas, sistema de banimento temporario/permanente
